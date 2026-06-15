@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hey%20there!%20%F0%9F%91%8B%20I'm%20Darshan&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20%26%20Cloud%20Engineer&descAlignY=61&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hey%20there!%20%F0%9F%91%8B%20I%27m%20Darshan&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20%26%20Cloud%20Engineer&descAlignY=61&descAlign=62" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Architecting+Cloud+Solutions;Training+AI+Models;Building+Full-Stack+Apps" alt="Typing SVG" />
   <br>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falaghattadarshan-glitch">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falaghattadarshan-glitch&countColor=%23263759&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=alaghattadarshan-glitch&label=PROFILE+VIEWS&color=28a745&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
