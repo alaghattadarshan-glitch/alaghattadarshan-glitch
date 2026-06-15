@@ -70,7 +70,7 @@
 ### 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaghattadarshan-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alaghattadarshan-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
@@ -84,15 +84,19 @@
   <summary><b>🎓 View My Certifications & Education</b></summary>
   <br>
   
-  **Education:**
-  - Bachelor of Engineering, Computer Science - Sapthagiri NPS University (2024 - 2028)
-  - Pre-University - Excellent Modbidri (2022 - 2024)
+  <p><b>Education:</b></p>
+  <ul>
+    <li>Bachelor of Engineering, Computer Science - Sapthagiri NPS University (2024 - 2028)</li>
+    <li>Pre-University - Excellent Modbidri (2022 - 2024)</li>
+  </ul>
 
-  **Certifications:**
-  - Agentic AI Connect
-  - Apply AI: Analyze Customer Reviews
-  - Build with AI Bootcamp
-  - Generative AI for Executives
+  <p><b>Certifications:</b></p>
+  <ul>
+    <li>Agentic AI Connect</li>
+    <li>Apply AI: Analyze Customer Reviews</li>
+    <li>Build with AI Bootcamp</li>
+    <li>Generative AI for Executives</li>
+  </ul>
 </details>
 
 <br>
