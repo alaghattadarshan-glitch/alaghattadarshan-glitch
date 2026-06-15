@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hey%20there!%20%F0%9F%91%8B%20I%27m%20Darshan&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20%26%20Cloud%20Engineer&descAlignY=61&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hey%20there!%20%F0%9F%91%8B%20I%27m%20Darshan&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%26%20Analyst&descAlignY=61&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Architecting+Cloud+Solutions;Training+AI+Models;Building+Full-Stack+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Future+Data+Analyst;Building+Foundational+Tech+Skills" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=alaghattadarshan-glitch&label=PROFILE+VIEWS&color=28a745&style=flat-square" alt="Profile Views" />
 </div>
@@ -14,16 +14,16 @@
   <tr>
     <td width="60%" valign="top">
       <h3>Who am I?</h3>
-      <p>I'm Darshan Prabhu K — a <b>Computer Science Engineer</b> who doesn't just write code, but focuses on growth, projects, and actual innovation.</p>
-      <p>I am currently a student at Sapthagiri NPS University, and I spend my time diving deep into AI model training, data science, and cloud platforms. My goal isn't just to learn; it's to transform curiosity into real-world capability.</p>
+      <p>I'm Darshan Prabhu K — an <b>aspiring Data Scientist and Analyst</b> who believes in the power of data to drive innovation.</p>
+      <p>I am currently a student at Sapthagiri NPS University. While my true passion lies in extracting insights from data, I am currently building full-stack projects to develop a strong, well-rounded engineering foundation. Understanding how applications are built from the ground up gives me a unique perspective on how data flows through real-world systems!</p>
       <h4>Right now, I'm:</h4>
       <ul>
-        <li>🧠 <b>Practicing DSA:</b> Building strong logical thinking to solve complex problems</li>
-        <li>🤖 <b>Building with AI:</b> Experimenting with Agentic AI and Prompt Engineering</li>
-        <li>☁️ <b>Scaling Systems:</b> Working with AWS & Google Cloud infrastructure</li>
-        <li>📊 <b>Data Science:</b> Extracting insights using Python, NumPy, and Pandas</li>
+        <li>📊 <b>Pursuing Data Science:</b> Actively learning the foundations of data analysis to uncover hidden patterns</li>
+        <li>🧱 <b>Building Full-Stack:</b> Creating end-to-end projects to understand complete system architecture</li>
+        <li>🤖 <b>Exploring AI:</b> Getting hands-on with Agentic AI and Prompt Engineering</li>
+        <li>🧠 <b>Practicing DSA:</b> Strengthening my core logical and algorithmic thinking</li>
       </ul>
-      <p><b>Philosophy:</b> Apply data-driven thinking to solve real-world problems. Keep learning, keep building, and never stop innovating. 🚀</p>
+      <p><b>Philosophy:</b> Build a strong engineering foundation to become a better data scientist. Keep learning, stay curious, and let data tell the story. 🚀</p>
     </td>
     <td width="40%" align="center" valign="top">
       <br><br>
@@ -34,8 +34,8 @@
 
 <hr>
 
-### 🚀 The Full Stack — All Three Pillars
-*Not just a developer. An engineer who owns the entire lifecycle:*
+### 🚀 My Tech Stack — Building the Foundation
+*Developing a complete understanding of the software lifecycle on my journey to Data Science:*
 
 <div align="center">
 
